@@ -45,3 +45,6 @@ function validarTramo($tramo) {
 	}
 	return $ok;
 }
+
+
+echo 'El script se está ejecutando';
